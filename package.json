@@ -1,0 +1,16 @@
+{
+  "name": "learn-js-structure-algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "stack": "node Stack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "pretty-format": "^25.2.3"
+  }
+}
